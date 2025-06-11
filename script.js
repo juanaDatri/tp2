@@ -1,15 +1,15 @@
-let frutas = ['Pera', 'Manzana', 'Banana']
-frutas.push('Uva')
-frutas.unshift('Mango')
+let frutas = ['Frambueza', 'Mango', 'Futilla']
+frutas.push('Banana')
+frutas.unshift('Manzana')
 frutas.pop()
 frutas.shift()
 console.log(frutas)
 
 //Ejercicio 2  
 
-let nombres = ['Facu', 'Benja', 'Alejo']
+let nombres = ['Facu', 'Benja', 'Valen']
 console.log(nombres.length)
-nombres.push('Cristian','Luis')
+nombres.push('Jose','Cata')
 console.log(nombres.length)
 
 //Ejercicio 3  
